@@ -1,1 +1,1 @@
-web: gunicorn contactux.wsgi
+web: gunicorn agenda.wsgi
