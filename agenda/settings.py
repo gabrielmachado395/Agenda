@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'contactux',
     'contatos.apps.ContatosConfig',
     'accounts.apps.AccountsConfig',
 ]
